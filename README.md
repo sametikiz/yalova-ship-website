@@ -1,0 +1,2 @@
+# yalova-ship-website
+public
